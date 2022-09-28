@@ -1,1 +1,1 @@
-# Boutique_de_jeux_en_ligne
+# Boutique de jeux en ligne
